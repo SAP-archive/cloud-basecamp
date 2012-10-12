@@ -1,7 +1,7 @@
 SAP NetWeaver Cloud Samples - basecamp
 ========
 
-A simple Maven(http://maven.apache.org/) skeleton project of web app archetype (https://maven.apache.org/archetype/maven-archetype-bundles/maven-archetype-webapp/)
+A simple [Maven](http://maven.apache.org/) skeleton project of [web app archetype](https://maven.apache.org/archetype/maven-archetype-bundles/maven-archetype-webapp/)
 
 Quick start
 -----------
