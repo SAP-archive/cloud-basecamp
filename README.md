@@ -6,7 +6,7 @@ A simple [Maven](http://maven.apache.org/) skeleton project of [web app archetyp
 Quick start
 -----------
 
-Clone the repo, `git clone https://github.com/sapnwcloud/basecamp.git`, or [download the latest release](https://github.com/sap/cloud-basecamp/zipball/master).
+Clone the repo, `git clone https://github.com/sap/cloud-basecamp.git`, or [download the latest release](https://github.com/sap/cloud-basecamp/zipball/master).
 
 
 Versioning
