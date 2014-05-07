@@ -71,12 +71,12 @@
 		</dependency>
 		
 		<!-- SAP HANA Cloud Platform  -->
-        <dependency>
-	        <groupId>com.sap.cloud</groupId>
+        	<dependency>
+	        	<groupId>com.sap.cloud</groupId>
 			<artifactId>neo-java-web-api</artifactId>
 			<version>${sap.hcp.sdk.version}</version>
-        </dependency>
-		
+        	</dependency>
+			
 	</dependencies>
 
 	<build>
